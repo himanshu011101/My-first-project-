@@ -1,11 +1,15 @@
-# My First Project
+# My First Project 🚀
 
-This is my first GitHub project.
+This is my first GitHub project where I am learning how to use GitHub.
 
-## What I am learning
+## 📚 What I am learning
 - GitHub basics
 - Uploading files
 - Version control
 
-## Author
+## 🛠 Technologies
+- Java (beginner)
+- GitHub
+
+## 👤 Author
 Himanshu
